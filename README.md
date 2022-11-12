@@ -1,2 +1,4 @@
-# AutonomusClass_Bartosz
- 
+# AutonomousClass_Bartosz
+
+Klasa autonomiczna - konwertowanie prędkości 
+
